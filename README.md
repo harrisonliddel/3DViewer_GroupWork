@@ -25,5 +25,5 @@ C - model rotate Z +
 V - model rotate Z -
 
 Scale factor Keys:
-= - increase scale factor
-- - decrease scale factor
+(=) - increase scale factor
+(-) - decrease scale factor
