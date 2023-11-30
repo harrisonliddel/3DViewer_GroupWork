@@ -24,7 +24,7 @@ Keyboard keys command:
 
 -------------------------------------------------------------------------------------------------------  
 
-**Translation keys:**  
+<ins>**Translation keys:**</ins>  
 
 K - camera translate Y +  
 
