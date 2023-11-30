@@ -2,13 +2,20 @@
 
 These are the libraries that this code uses and need to be downloaded in order for the viewer to work:  
 
-#include <iostream>
-#include <vector>
-#include <assimp/Importer.hpp>
-#include <assimp/scene.h>
-#include <assimp/postprocess.h>
-#include <GL/glew.h>
-#include <GLFW/glfw3.h>
+#include <iostream>  
+
+#include <vector>  
+
+#include <assimp/Importer.hpp>  
+
+#include <assimp/scene.h>  
+
+#include <assimp/postprocess.h>  
+
+#include <GL/glew.h>  
+
+#include <GLFW/glfw3.h>  
+
 
 Keyboard keys command:
 Translation keys:
