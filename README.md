@@ -24,8 +24,8 @@ Keyboard keys command:
 
 -------------------------------------------------------------------------------------------------------  
 
-Translation keys:  
-
+**Translation keys:  
+**
 K - camera translate Y +  
 
 I - camera translate Y -  
@@ -48,7 +48,7 @@ W - model translate X +
 
   
 
-Rotation Keys:  
+**Rotation Keys:  **
 
 B - camera rotate X +  
 
@@ -70,10 +70,11 @@ V - model rotate Z -
 
   
 
-Scale factor Keys:  
+**Scale factor Keys:  **
 
 (=) - increase scale factor  
 
 (-) - decrease scale factor  
+
 -------------------------------------------------------------------------------------------------------  
 
