@@ -1,0 +1,3 @@
+/Users/harrison/Library/CloudStorage/OneDrive-LiverpoolHopeUniversity/Uni Work/3D Vision/Coursework/3D Viewer/cmake-build-debug/CMakeFiles/code.dir
+/Users/harrison/Library/CloudStorage/OneDrive-LiverpoolHopeUniversity/Uni Work/3D Vision/Coursework/3D Viewer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/harrison/Library/CloudStorage/OneDrive-LiverpoolHopeUniversity/Uni Work/3D Vision/Coursework/3D Viewer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
