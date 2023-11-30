@@ -14,6 +14,7 @@ Translation keys:
 K - camera translate Y +
 
 I - camera translate Y -
+
 L - camera translate X -
 J - camera translate X +
 U - camera translate Z +
