@@ -11,10 +11,8 @@ These are the libraries that this code uses and need to be downloaded in order f
 
 Keyboard keys command:
 Translation keys:
-K - camera translate Y +
-
+\nK - camera translate Y +
 I - camera translate Y -
-
 L - camera translate X -
 J - camera translate X +
 U - camera translate Z +
