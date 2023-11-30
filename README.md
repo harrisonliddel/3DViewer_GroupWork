@@ -2,6 +2,8 @@
 
 These are the libraries that this code uses and need to be downloaded in order for the viewer to work:  
 
+-------------------------------------------------------------------------------------------------------  
+
 #include <iostream>  
 
 #include <vector>  
@@ -16,6 +18,7 @@ These are the libraries that this code uses and need to be downloaded in order f
 
 #include <GLFW/glfw3.h>  
 
+-------------------------------------------------------------------------------------------------------  
 
 Keyboard keys command:  
 
@@ -41,6 +44,7 @@ S - model translate X -
 
 W - model translate X +  
 
+  
 
 Rotation Keys:  
 
@@ -62,10 +66,12 @@ C - model rotate Z +
 
 V - model rotate Z -  
 
+  
 
 Scale factor Keys:  
 
 (=) - increase scale factor  
 
 (-) - decrease scale factor  
+-------------------------------------------------------------------------------------------------------  
 
