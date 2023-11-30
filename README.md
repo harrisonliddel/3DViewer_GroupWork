@@ -1,6 +1,7 @@
 # 3DViewer_GroupWork
 
-These are the libraries that this code uses and need to be downloaded in order for the viewer to work:
+These are the libraries that this code uses and need to be downloaded in order for the viewer to work:  
+
 #include <iostream>
 #include <vector>
 #include <assimp/Importer.hpp>
@@ -11,7 +12,7 @@ These are the libraries that this code uses and need to be downloaded in order f
 
 Keyboard keys command:
 Translation keys:
-\nK - camera translate Y +
+K - camera translate Y +
 I - camera translate Y -
 L - camera translate X -
 J - camera translate X +
