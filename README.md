@@ -47,8 +47,7 @@ S - model translate X -
 W - model translate X +  
 
   
-
-**Rotation Keys:  **
+**Rotation Keys:**  
 
 B - camera rotate X +  
 
@@ -69,8 +68,7 @@ C - model rotate Z +
 V - model rotate Z -  
 
   
-
-**Scale factor Keys:  **
+**Scale factor Keys:**  
 
 (=) - increase scale factor  
 
